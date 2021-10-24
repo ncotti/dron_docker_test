@@ -1,0 +1,11 @@
+#Repo de PX4-Autopilot
+PX4-Autopilot
+
+#Algunas carpetas auxiliares del develpoer ;)
+my_mavros/junk
+my_mavros/recordings/cylinders
+my_mavros/recordings/default/*
+my_mavros/recordings/brick_square
+
+#Todos los archivos .bag (pesan Gbs)
+*.bag
